@@ -1,2 +1,3 @@
 # Arch-scripts
-Bash scripts to make my life easier on Arch
+
+Bash scripts to make everyone's life easier on Arch.

@@ -1,4 +1,4 @@
-iw dev
+ip link
 echo "Enter the name of wifi card:"
 read w
 ip link set $w up
